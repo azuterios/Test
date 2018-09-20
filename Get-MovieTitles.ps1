@@ -6,11 +6,9 @@ Param(
 
 function Get-Titles([string]$title, [int]$pageNumber)
 {
-
     $webRequest = Invoke-WebRequest -Method Get -Uri https://jsonmock.hackerrank.com/api/movies/search/?Title=$title`&page=$pageNumber | ConvertFrom-Json
 
     return $webRequest
-
 }
 
 Write-Output "$title"
