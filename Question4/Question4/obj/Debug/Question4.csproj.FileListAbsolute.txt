@@ -1,0 +1,7 @@
+c:\users\champion\source\repos\Question4\Question4\bin\Debug\Question4.exe.config
+c:\users\champion\source\repos\Question4\Question4\bin\Debug\Question4.exe
+c:\users\champion\source\repos\Question4\Question4\bin\Debug\Question4.pdb
+c:\users\champion\source\repos\Question4\Question4\obj\Debug\Question4.csprojResolveAssemblyReference.cache
+c:\users\champion\source\repos\Question4\Question4\obj\Debug\Question4.csproj.CoreCompileInputs.cache
+c:\users\champion\source\repos\Question4\Question4\obj\Debug\Question4.exe
+c:\users\champion\source\repos\Question4\Question4\obj\Debug\Question4.pdb
